@@ -8,7 +8,7 @@ Because we only use one class dataset(CelebA), replaced Conditional Batch Normal
 ### SA(Self Attention)  
 + ["Self-Attention Generative Adversarial Networks."](http://export.arxiv.org/pdf/1805.08318)  
   
-![Self-Attention](https://github.com/dwro0121/Attention_GAN/blob/main/imgs/self-attention.jpg)  
+![Self-Attention](./imgs/self-attention.jpg)  
 ### CCA(Criss Cross Attention)  
 + ["CCNet: Criss-Cross Attention for Semantic Segmentation."](https://arxiv.org/pdf/1811.11721.pdf)  
   
