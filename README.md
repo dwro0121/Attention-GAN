@@ -12,13 +12,13 @@ Because we only use one class dataset(CelebA), replaced Conditional Batch Normal
 ### CCA(Criss Cross Attention)  
 + ["CCNet: Criss-Cross Attention for Semantic Segmentation."](https://arxiv.org/pdf/1811.11721.pdf)  
   
-![Criss-Cross-Attention](https://github.com/dwro0121/Attention_GAN/blob/main/imgs/criss-cross-attention.jpg)  
+![Criss-Cross-Attention](./imgs/criss-cross-attention.jpg)  
 ### YLA(Your Local Attention)  
 + ["Your Local GAN: Designing Two Dimensional Local Attention Mechanisms for Generative Models."](https://arxiv.org/pdf/1911.12287)  
   
-![Your-Local-Attention](https://github.com/dwro0121/Attention_GAN/blob/main/imgs/your-local-attention.png)  
+![Your-Local-Attention](./imgs/your-local-attention.png)  
 ### ESA for YLA  
-![ESA](https://github.com/dwro0121/Attention_GAN/blob/main/imgs/ESA.png)  
+![ESA](./imgs/ESA.png)  
 
 
 
@@ -38,11 +38,11 @@ Because we only use one class dataset(CelebA), replaced Conditional Batch Normal
 
 ## Generated Images (Trained for 100K)
 ### Generated from SA(Self Attention)-GAN  
-![Generated img from SA-GAN](https://github.com/dwro0121/Attention_GAN/blob/main/imgs/SA_generated.PNG)  
+![Generated img from SA-GAN](./imgs/SA_generated.PNG)  
 ### Generated from CCA(Criss Cross Attention)-GAN  
-![Generated img from CCA-GAN](https://github.com/dwro0121/Attention_GAN/blob/main/imgs/CCA_generated.PNG)  
+![Generated img from CCA-GAN](./imgs/CCA_generated.PNG)  
 ### Generated from YLA(Your Local Attention)-GAN  
-![Generated img from YLA-GAN](https://github.com/dwro0121/Attention_GAN/blob/main/imgs/YLA_generated.PNG)  
+![Generated img from YLA-GAN](./imgs/YLA_generated.PNG)  
 
 
 ## Requirements
